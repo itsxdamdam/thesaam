@@ -50,4 +50,4 @@
  
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesaam&&theme=tokyonight" alt="saam" /></p>
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green" alt="saam" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesaam&theme=blue-green" alt="saam" /></p>
