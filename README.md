@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="480" height="360"/>
-</div>
-
 <h2 align="center"> Hello there 👋 </h2
 
 <!--  Animation Typing  -->
