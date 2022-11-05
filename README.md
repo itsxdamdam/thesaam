@@ -34,23 +34,7 @@
   
 <!-- About me:end -->
   
-<!-- Socials  -->
-
-<h3> 🌐Socials </h3>
-<p>
-  <a href = "https://twitter.com/_thesaam">
-    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=thesaam&style=social&url=https%3A%2F%2Ftwitter.com%2F_thesaam">
-  </a>
-</p>
-  
-<!-- Socials:end -->
-
-<!-- Github Stats -->
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesaam&show_icons=true&locale=en&theme=tokyonight" alt="saam" /></p>
- 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesaam&&theme=tokyonight" alt="saam" /></p>
-
-<!-- Github Stats:end -->
+<!-- Tech stack -->
   
 <h3> 💻Tech Stack </h3>
 
@@ -71,3 +55,27 @@
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   </p>
+  
+<!-- Tech stack:end -->
+  
+<!-- Socials  -->
+
+<h3> 🌐Socials </h3>
+<p>
+  <a href = "https://twitter.com/_thesaam">
+    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=thesaam&style=social&url=https%3A%2F%2Ftwitter.com%2F_thesaam">
+  </a>
+</p>
+  
+<!-- Socials:end -->
+
+<!-- Github Stats -->
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesaam&show_icons=true&locale=en&theme=tokyonight" alt="saam" /></p>
+ 
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesaam&&theme=tokyonight" alt="saam" /></p>
+
+  <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=NinoBass&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="saam" />
+<!-- Github Stats:end -->
+  
+
+
