@@ -20,3 +20,4 @@
 <h3> 🌐Socials </h3>
 https://twitter.com/_thesaam
 https://www.linkedin.com/in/samuel-07107b195/
+alt texthttps://twitter.com/_thesaam
