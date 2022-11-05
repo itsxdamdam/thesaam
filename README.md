@@ -29,5 +29,7 @@
 
 <h3> 🌐Socials </h3>
 <p>
-  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F_thesaam">
+  <a href = "https://twitter.com/_thesaam">
+    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=thesaam&style=social&url=https%3A%2F%2Ftwitter.com%2F_thesaam">
+  </a>
 </p>
