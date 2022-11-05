@@ -6,6 +6,9 @@
 
 
 <h3 align="left"> ⚡️ About Me </h3>
+<ul>
+  <li>* ✨ I’m Samuel but my friends call me Sam or Dammy</li>
+</ul>
 * ✨ I’m Samuel but my friends call me Sam or Dammy.
 * Nickname: Legend
 - 👨‍💻 I work consistently to write good code and build real time solutions
