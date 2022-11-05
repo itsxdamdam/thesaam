@@ -1,9 +1,14 @@
 <h2 align="center"> Hello there 👋 </h2
 
+<!--  Animation Typing  -->
+  
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=open+sans&pause=1000&color=284CF7&background=222222&center=true&vCenter=true&width=435&lines=I'm+Bakare+Samuel+Ayomiku;I'm+a+Software+Engineer" alt="Typing SVG" /></a>
 </p>
 
+<!--  Animation End  -->
+  
+<!-- About me  -->
 
 <h3 align="left"> ⚡️ About Me </h3>
 
@@ -26,6 +31,10 @@
   <li>😄 Pronouns: he/him</li>
   
 </ul>
+  
+<!-- About me:end -->
+  
+<!-- Socials  -->
 
 <h3> 🌐Socials </h3>
 <p>
@@ -33,3 +42,9 @@
     <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=thesaam&style=social&url=https%3A%2F%2Ftwitter.com%2F_thesaam">
   </a>
 </p>
+  
+<!-- Socials:end -->
+
+<!-- Github Stats -->
+
+  <p> [!(https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) </p>
