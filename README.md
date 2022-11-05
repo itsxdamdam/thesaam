@@ -6,8 +6,8 @@
 
 
 <h3 align="left"> ⚡️ About Me </h3>
-- ✨ I’m Samuel but my friends call me Sam or Dammy.
-- Nickname: Legend
+* ✨ I’m Samuel but my friends call me Sam or Dammy.
+* Nickname: Legend
 - 👨‍💻 I work consistently to write good code and build real time solutions
 - 🔭 I bring my effective problem-solving, discipline and strong communication skills.
 - 💬 I'm passionate about building sustainable solution and products that add value to the lives of users.
