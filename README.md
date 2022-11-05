@@ -6,18 +6,28 @@
 
 
 <h3 align="left"> ⚡️ About Me </h3>
+
 <ul>
+  
   <li>✨ I’m Samuel but my friends call me Sam or Dammy</li>
+  
   <li>Nickname: Legend</li>
+  
   <li>👨‍💻 I work consistently to write good code and build real time solutions</li>
+  
   <li>🔭 I bring my effective problem-solving, discipline and strong communication skills</li>
+  
   <li>💬 I'm passionate about building sustainable solution and products that add value to the lives of users</li>
+  
   <li>🎉Fun Fact : I'm interested in Blockchain and open source</li>
+  
   <li>🎉More Fact : I also play an acoustic guitar and can sing too</li>
+  
   <li>😄 Pronouns: he/him</li>
+  
 </ul>
 
 <h3> 🌐Socials </h3>
-https://twitter.com/_thesaam
-https://www.linkedin.com/in/samuel-07107b195/
-alt texthttps://twitter.com/_thesaam
+<p>
+  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F_thesaam">
+</p>
